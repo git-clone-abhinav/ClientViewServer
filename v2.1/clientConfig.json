@@ -1,0 +1,12 @@
+{
+    "location": "shyampur",
+    "timeout": 10,
+    "screenshot_folder": "C:/xampp/htdocs/clientview/v2.1/client_screenshots",
+    "screenshot_file": "screenshot.png",
+    "server": {
+        "port": 5000,
+        "host": "192.168.1.72"
+    },
+    "thumbnail_mode": true,
+    "screenshot_limit" : 100
+}

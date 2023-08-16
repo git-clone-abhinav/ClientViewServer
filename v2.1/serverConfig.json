@@ -1,0 +1,11 @@
+{
+    "timeout": 10,
+    "screenshot_folder": "C:\\xampp\\htdocs\\clientview\\client_screenshots",
+    "server": {
+        "port": 5000,
+        "host": "192.168.1.72"
+    },
+    "update_config_frequency": 5,
+    "screenshot_limit": 100,
+    "thumbnail_mode": true
+}
